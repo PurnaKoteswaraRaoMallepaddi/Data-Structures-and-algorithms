@@ -1,0 +1,1 @@
+def ksum(arr,k):
